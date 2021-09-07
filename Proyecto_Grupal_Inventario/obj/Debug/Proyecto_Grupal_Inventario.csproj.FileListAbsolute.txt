@@ -88,3 +88,6 @@ C:\Users\Ale\Desktop\Cass\Proyecto_Grupal_Inventario\Proyecto_Grupal_Inventario\
 C:\Users\Ale\Desktop\Cass\Proyecto_Grupal_Inventario\Proyecto_Grupal_Inventario\bin\EntityFramework.SqlServer.dll
 C:\Users\Ale\Desktop\Cass\Proyecto_Grupal_Inventario\Proyecto_Grupal_Inventario\bin\EntityFramework.xml
 C:\Users\Ale\Desktop\Cass\Proyecto_Grupal_Inventario\Proyecto_Grupal_Inventario\bin\EntityFramework.SqlServer.xml
+C:\Users\Ale\Desktop\Cass\Proyecto_Grupal_Inventario\Proyecto_Grupal_Inventario\bin\DAL.dll
+C:\Users\Ale\Desktop\Cass\Proyecto_Grupal_Inventario\Proyecto_Grupal_Inventario\bin\DAL.pdb
+C:\Users\Ale\Desktop\Cass\Proyecto_Grupal_Inventario\Proyecto_Grupal_Inventario\bin\DAL.dll.config
