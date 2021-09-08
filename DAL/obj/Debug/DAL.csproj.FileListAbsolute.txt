@@ -32,3 +32,37 @@ C:\Users\Ale\Desktop\Cass\Proyecto_Grupal_Inventario\DAL\obj\Debug\DAL.dll
 C:\Users\Ale\Desktop\Cass\Proyecto_Grupal_Inventario\DAL\obj\Debug\DAL.pdb
 C:\Users\Ale\Desktop\Cass\Proyecto_Grupal_Inventario\DAL\obj\Debug\DAL.Migrations.Inicial.resources
 C:\Users\Ale\Desktop\Cass\Proyecto_Grupal_Inventario\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\DAL.dll.config
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\DAL.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\DAL.pdb
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.Razor.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.Razor.xml
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\obj\Debug\DAL.Migrations.Inicial.resources
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\obj\Debug\DAL.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\DAL\obj\Debug\DAL.pdb

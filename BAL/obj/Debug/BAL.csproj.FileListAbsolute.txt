@@ -1,0 +1,15 @@
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\bin\Debug\BAL.dll.config
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\bin\Debug\BAL.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\bin\Debug\BAL.pdb
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\bin\Debug\DAL.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\bin\Debug\EntityFramework.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\bin\Debug\DAL.pdb
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\bin\Debug\DAL.dll.config
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\bin\Debug\EntityFramework.xml
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\obj\Debug\BAL.dll
+C:\Users\Quick Service PC\Documents\Proyecto-Tienda\Proyecto-Tienda\BAL\obj\Debug\BAL.pdb
