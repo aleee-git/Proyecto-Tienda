@@ -173,12 +173,9 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Producto\MostrarProductos.cshtml" />
-<<<<<<< HEAD
-    <Content Include="Views\Categoria\AgregarCategoria.cshtml" />
-    <Content Include="Views\Categoria\ShowCategories.cshtml" />
-=======
     <Content Include="Views\Producto\CreateOrEditProductos.cshtml" />
->>>>>>> 825ee963fc25aafb4522df910a5e0df5a39c858a
+	  <Content Include="Views\Categoria\AgregarCategoria.cshtml" />
+	  <Content Include="Views\Categoria\ShowCategories.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
