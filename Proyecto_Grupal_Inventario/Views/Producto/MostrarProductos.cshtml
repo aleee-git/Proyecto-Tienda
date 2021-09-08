@@ -6,6 +6,7 @@
     ViewBag.Title = "Productos";
 }
 
+
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12">
@@ -13,7 +14,7 @@
             <br />
             <center> <h2>Listado de productos</h2> </center>
 
-            <button class="btn" onclick="window.location.href='/Producto' " style="background-color: #6F4C5B; color:#fff">Agregar</button>
+            <button class="btn" onclick="window.location.href='/Producto/CreateOrEditProductos' " style="background-color: #6F4C5B; color:#fff">Agregar</button>
             <br />
             <br />
 
@@ -36,7 +37,6 @@
 
                 @if (Model.Count() > 0)
                 {
-                    //Recorrer el modelo (lista)
                     foreach (var pro in Model)
                     {
                         <tbody>
@@ -47,13 +47,13 @@
                                 <td>@pro.Precio</td>
                                 <td>@pro.Descripcion</td>
                                 <td>@pro.Imagen</td>
-                                <td>@pro.IdCategoria</td>
-                                <td>@pro.IdProveedor</td>
+                                <td>@pro.Categoria.NombreCategoria</td>
+                                <td>@pro.Proveedores.NombreProveedor</td>
                                 <td>
-                                    <button class="btn btn-warning" onclick="window.location.href = '/Producto' " style="color:#000">Editar</button>
+                                    <button class="btn btn-success" onclick="window.location.href = '/Producto/CreateOrEditProductos?idProducto=' + @pro.IdProducto" style="color:#000">Editar</button>
                                 </td>
                                 <td>
-                                    <button class="btn btn-danger" onclick="window.location.href='/Producto' " style="color:#fff">Eliminar</button>
+                                    <button class="btn btn-danger" onclick="window.location.href = '/Producto/DeleteProductos?idProducto=' +@pro.IdProducto " style="color:#fff">Eliminar</button>
                                 </td>
                             </tr>
 

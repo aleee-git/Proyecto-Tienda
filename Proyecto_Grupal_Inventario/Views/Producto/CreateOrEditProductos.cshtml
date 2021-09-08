@@ -1,0 +1,73 @@
+﻿@using DAL.Models;
+@model Productos
+
+@{
+    ViewBag.Title = "Create Or Edit";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+
+            @if (Model.IdProducto > 0)
+            {
+                <br />
+                <center> <h2>Editar producto</h2> </center>
+                <br />
+            }
+            else
+            {
+                <br />
+                <center> <h2>Agregar producto</h2> </center>
+                <br />
+            }
+
+
+            @using (Html.BeginForm())
+            {
+                @Html.HiddenFor(x => x.IdProducto)
+
+                <div class="form-group">
+                    <label class="control-label"> Nombre </label>
+                    @Html.TextBoxFor(x => x.NombreProducto, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.NombreProducto, null, htmlAttributes: new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label"> Precio  </label>
+                    @Html.TextBoxFor(x => x.Precio, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.Precio, null, htmlAttributes: new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label"> Descripción  </label>
+                    @Html.TextBoxFor(x => x.Descripcion, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.Descripcion, null, htmlAttributes: new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label"> Imagen  </label>
+                    @Html.TextBoxFor(x => x.Imagen, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.Imagen, null, htmlAttributes: new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label"> Categoria  </label>
+                    @Html.DropDownListFor(x => x.IdCategoria, (IEnumerable<SelectListItem>)ViewBag.ListaCategorias, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.IdCategoria, null, htmlAttributes: new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label"> Proveedor  </label>
+                    @Html.DropDownListFor(x => x.IdProveedor, (IEnumerable<SelectListItem>)ViewBag.ListaProveedores, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.IdProveedor, null, htmlAttributes: new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Registrar" />
+                </div>
+            }
+
+        </div>
+    </div>
+</div>

@@ -31,6 +31,9 @@ namespace DAL.Models
         [Required(ErrorMessage = "El campo no puede estar vacio")]
         public string Imagen { get; set; }
 
+        //Objeto virtual que permite cargar datos de esas tablas
+        public virtual Categorias Categoria { get; set; }
+        public virtual Proveedores Proveedores { get; set; }
 
         //Llaves foráneas
         public int IdCategoria { get; set; }
