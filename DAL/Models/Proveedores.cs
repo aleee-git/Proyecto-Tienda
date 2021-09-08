@@ -18,7 +18,7 @@ namespace DAL.Models
         [Required(ErrorMessage = "El campo no puede estar vacio")]
         public string NombreProveedor { get; set; }
         
-        
+
         [Required(ErrorMessage = "El campo no puede estar vacio")]
         public int Telefono { get; set; }
 

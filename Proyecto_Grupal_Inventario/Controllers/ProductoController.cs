@@ -10,7 +10,7 @@ namespace Proyecto_Grupal_Inventario.Controllers
 {
     public class ProductoController : Controller
     {
-        //Objeto contextp
+        //Objeto contexto
         private Contexto contexto = new Contexto();
 
         //Mostrar Productos
