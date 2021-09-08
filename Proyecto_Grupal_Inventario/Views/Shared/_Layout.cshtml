@@ -5,7 +5,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - Tienda 🔔</title>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css
+    <a href="~/Views/Shared/_Layout.cshtml">~/Views/Shared/_Layout.cshtml</a>">
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 </head>
@@ -22,13 +23,10 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-<<<<<<< HEAD
                     <li>@Html.ActionLink("Productos", "MostrarProductos" , "Producto")</li>
                     <li>@Html.ActionLink("Categorías", "ShowCategories", "Categoria")</li>
-=======
                     <li>@Html.ActionLink("Productos", "MostrarProductos", "Producto")</li>
                     <li>@Html.ActionLink("Categorías", "Index", "Home")</li>
->>>>>>> 825ee963fc25aafb4522df910a5e0df5a39c858a
                     <li>@Html.ActionLink("Ventas", "Index", "Home")</li>
                     <li>@Html.ActionLink("Compas", "Index", "Home")</li>
                     <li>@Html.ActionLink("Proveedores", "Index", "Home")</li>
